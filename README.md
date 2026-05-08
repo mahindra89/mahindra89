@@ -24,9 +24,9 @@
 
 I'm **Mahindra Manohar Alla**, an **AI Engineer** specializing in agentic AI systems and RAG pipelines
 
-- [span_1](start_span)🔭 **I’m working as** a graduate Computer Science student at Texas Tech University[span_1](end_span).
-- [span_2](start_span)📚 **I’m currently learning** advanced Agentic AI workflows using MCP with LangChain and leading LLM platforms[span_2](end_span).
-- [span_3](start_span)⚡ **In my free time I** optimize end-to-end inference pipelines for transformer and LLM models[span_3](end_span).
+- 🔭 **I’m working as** a graduate Computer Science student at Texas Tech University.
+- 📚 **I’m currently learning** advanced Agentic AI workflows using MCP with LangChain and leading LLM platforms.
+- ⚡ **In my free time I** optimize end-to-end inference pipelines for transformer and LLM models.
 
 ---
 
@@ -37,9 +37,9 @@ I'm **Mahindra Manohar Alla**, an **AI Engineer** specializing in agentic AI sys
 </p>
 
 **Key Expertise:**
-* **[span_4](start_span)AI/ML:** LangChain, LangGraph, RAG, BERT, YOLOv8, Vision Transformers[span_4](end_span).
-* **[span_5](start_span)Inference:** TensorRT, CUDA, ONNX, Quantization[span_5](end_span).
-* **[span_6](start_span)Frameworks:** FastAPI, Flask, ReactJS[span_6](end_span).
+* **AI/ML:** LangChain, LangGraph, RAG, BERT, YOLOv8, Vision Transformers.
+* **Inference:** TensorRT, CUDA, ONNX, Quantization.
+* **Frameworks:** FastAPI, Flask, ReactJS.
 
 ---
 
@@ -55,9 +55,9 @@ I'm **Mahindra Manohar Alla**, an **AI Engineer** specializing in agentic AI sys
 
 ### 🚀 Highlighted Projects
 
-* **[span_7](start_span)LLM-Powered Quiz Bot:** Built a RAG quiz generator using Llama 3 and ChromaDB with semantic reranking[span_7](end_span).
-* **[span_8](start_span)Alzheimer's Detection (Rel-SA):** Developed a CNN-Transformer for MRI classification with 98.25% accuracy[span_8](end_span).
-* **[span_9](start_span)Twitter Sentiment Dashboard:** Fine-tuned BERT and served real-time inference via Dockerized REST APIs[span_9](end_span).
+* **LLM-Powered Quiz Bot:** Built a RAG quiz generator using Llama 3 and ChromaDB with semantic reranking.
+* **Alzheimer's Detection (Rel-SA):** Developed a CNN-Transformer for MRI classification with 98.25% accuracy.
+* **Twitter Sentiment Dashboard:** Fine-tuned BERT and served real-time inference via Dockerized REST APIs.
 
 ---
 
