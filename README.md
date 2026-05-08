@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  
+  <h1 class="hero-title animate-fade-rise">The best way to predict the future is to invent it.</h1>
   <p align="center">
     <a href="https://www.linkedin.com/in/mahindra-manohar-alla/">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
@@ -50,5 +50,7 @@ I'm **Mahindra Manohar Alla**, an **AI Engineer** specializing in agentic AI sys
 * **Twitter Sentiment Dashboard:** Fine-tuned BERT and served real-time inference via Dockerized REST APIs.
 
 ---
-<h1 class="hero-title animate-fade-rise">The best way to predict the future is to invent it.</h1>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</div>
