@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Mahindra%20Manohar%20Alla&fontSize=50" alt="header" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   
   <p align="center">
     <a href="https://www.linkedin.com/in/mahindra-manohar-alla/">
@@ -40,16 +40,6 @@ I'm **Mahindra Manohar Alla**, an **AI Engineer** specializing in agentic AI sys
 * **AI/ML:** LangChain, LangGraph, RAG, BERT, YOLOv8, Vision Transformers.
 * **Inference:** TensorRT, CUDA, ONNX, Quantization.
 * **Frameworks:** FastAPI, Flask, ReactJS.
-
----
-
-### 🔥 My Stats :
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="Total Contributions" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Current Streak" />
-</div>
 
 ---
 
