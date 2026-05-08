@@ -15,7 +15,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=mahindra-alla&color=blue" alt="visitors" />
 
-  <h1>hey there 👋</h1>
+  <h1>Hey there 👋</h1>
 </div>
 
 ---
@@ -50,7 +50,5 @@ I'm **Mahindra Manohar Alla**, an **AI Engineer** specializing in agentic AI sys
 * **Twitter Sentiment Dashboard:** Fine-tuned BERT and served real-time inference via Dockerized REST APIs.
 
 ---
+<h1 class="hero-title animate-fade-rise">The best way to predict the future is to invent it.</h1>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-</div>
