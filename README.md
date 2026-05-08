@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-[span_0](start_span)I'm **Mahindra Manohar Alla**, an **AI Engineer** specializing in agentic AI systems and RAG pipelines[span_0](end_span). 
+I'm **Mahindra Manohar Alla**, an **AI Engineer** specializing in agentic AI systems and RAG pipelines
 
 - [span_1](start_span)🔭 **I’m working as** a graduate Computer Science student at Texas Tech University[span_1](end_span).
 - [span_2](start_span)📚 **I’m currently learning** advanced Agentic AI workflows using MCP with LangChain and leading LLM platforms[span_2](end_span).
