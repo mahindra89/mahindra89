@@ -2,14 +2,11 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
   <h1 class="hero-title animate-fade-rise">The best way to predict the future is to invent it.</h1>
   <p align="center">
-    <a href="https://www.linkedin.com/in/mahindra-manohar-alla/">
+    <a href="https://www.linkedin.com/in/mahindra-alla/">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
     <a href="mailto:a.mahindra89@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-    </a>
-    <a href="https://twitter.com/">
-      <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
     </a>
   </p>
 
